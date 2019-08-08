@@ -1,0 +1,1 @@
+WinMove("Touch Order", "", 915, 0, 905, 938)
